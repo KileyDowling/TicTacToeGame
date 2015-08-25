@@ -1,0 +1,5 @@
+\\psf\Home\Desktop\GitHub\KileyDowling\TicTacToe\GameLogic\bin\Debug\GameLogic.dll
+\\psf\Home\Desktop\GitHub\KileyDowling\TicTacToe\GameLogic\bin\Debug\GameLogic.pdb
+\\psf\Home\Desktop\GitHub\KileyDowling\TicTacToe\GameLogic\obj\Debug\GameLogic.BLL.csprojResolveAssemblyReference.cache
+\\psf\Home\Desktop\GitHub\KileyDowling\TicTacToe\GameLogic\obj\Debug\GameLogic.dll
+\\psf\Home\Desktop\GitHub\KileyDowling\TicTacToe\GameLogic\obj\Debug\GameLogic.pdb

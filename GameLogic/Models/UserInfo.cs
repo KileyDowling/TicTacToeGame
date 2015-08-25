@@ -8,8 +8,9 @@ namespace GameLogic.Models
 {
     public class UserInfo
     {
-        public string UserOne { get; set; }
-        public string UserTwo { get; set; }
+        public int UserTurn { get; set; }
+        public string UserName { get; set; }
+        public string UserMarker { get; set; }
 
     }
 }
