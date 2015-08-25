@@ -9,3 +9,14 @@
 \\psf\Home\Desktop\GitHub\KileyDowling\TicTacToe\TicTacToe.Tests\bin\Debug\nunit.framework.xml
 \\psf\Home\Desktop\GitHub\KileyDowling\TicTacToe\TicTacToe.Tests\obj\Debug\TicTacToe.Tests.dll
 \\psf\Home\Desktop\GitHub\KileyDowling\TicTacToe\TicTacToe.Tests\obj\Debug\TicTacToe.Tests.pdb
+\\psf\Home\Desktop\GitHub\TicTacToe\TicTacToe.Tests\bin\Debug\TicTacToe.Tests.dll
+\\psf\Home\Desktop\GitHub\TicTacToe\TicTacToe.Tests\bin\Debug\TicTacToe.Tests.pdb
+\\psf\Home\Desktop\GitHub\TicTacToe\TicTacToe.Tests\bin\Debug\GameLogic.dll
+\\psf\Home\Desktop\GitHub\TicTacToe\TicTacToe.Tests\bin\Debug\nunit.framework.dll
+\\psf\Home\Desktop\GitHub\TicTacToe\TicTacToe.Tests\bin\Debug\TicTacToe.UI.exe
+\\psf\Home\Desktop\GitHub\TicTacToe\TicTacToe.Tests\bin\Debug\GameLogic.pdb
+\\psf\Home\Desktop\GitHub\TicTacToe\TicTacToe.Tests\bin\Debug\TicTacToe.UI.pdb
+\\psf\Home\Desktop\GitHub\TicTacToe\TicTacToe.Tests\bin\Debug\nunit.framework.xml
+\\psf\Home\Desktop\GitHub\TicTacToe\TicTacToe.Tests\obj\Debug\TicTacToe.Tests.csprojResolveAssemblyReference.cache
+\\psf\Home\Desktop\GitHub\TicTacToe\TicTacToe.Tests\obj\Debug\TicTacToe.Tests.dll
+\\psf\Home\Desktop\GitHub\TicTacToe\TicTacToe.Tests\obj\Debug\TicTacToe.Tests.pdb

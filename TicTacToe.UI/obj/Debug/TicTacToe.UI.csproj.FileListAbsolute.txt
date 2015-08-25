@@ -6,3 +6,11 @@
 \\psf\Home\Desktop\GitHub\KileyDowling\TicTacToe\TicTacToe.UI\bin\Debug\GameLogic.pdb
 \\psf\Home\Desktop\GitHub\KileyDowling\TicTacToe\TicTacToe.UI\obj\Debug\TicTacToe.UI.exe
 \\psf\Home\Desktop\GitHub\KileyDowling\TicTacToe\TicTacToe.UI\obj\Debug\TicTacToe.UI.pdb
+\\psf\Home\Desktop\GitHub\TicTacToe\TicTacToe.UI\bin\Debug\TicTacToe.UI.exe.config
+\\psf\Home\Desktop\GitHub\TicTacToe\TicTacToe.UI\obj\Debug\TicTacToe.UI.exe
+\\psf\Home\Desktop\GitHub\TicTacToe\TicTacToe.UI\obj\Debug\TicTacToe.UI.pdb
+\\psf\Home\Desktop\GitHub\TicTacToe\TicTacToe.UI\bin\Debug\TicTacToe.UI.exe
+\\psf\Home\Desktop\GitHub\TicTacToe\TicTacToe.UI\bin\Debug\TicTacToe.UI.pdb
+\\psf\Home\Desktop\GitHub\TicTacToe\TicTacToe.UI\bin\Debug\GameLogic.dll
+\\psf\Home\Desktop\GitHub\TicTacToe\TicTacToe.UI\bin\Debug\GameLogic.pdb
+\\psf\Home\Desktop\GitHub\TicTacToe\TicTacToe.UI\obj\Debug\TicTacToe.UI.csprojResolveAssemblyReference.cache

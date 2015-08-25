@@ -10,6 +10,7 @@ namespace TicTacToe.UI.Workflow
 {
     public class MainMenu
     {
+        GetUserInfo setUpUser = new GetUserInfo();
 
         public void Execute()
         {
@@ -50,7 +51,6 @@ namespace TicTacToe.UI.Workflow
 
         public UserInfo SetUpUser()
         {
-            GetUserInfo setUpUser = new GetUserInfo();
             UserInfo playerInfo = setUpUser.SetUpPlayer();
 
             return playerInfo;
